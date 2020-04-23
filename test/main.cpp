@@ -1,5 +1,5 @@
 #include <iostream>
-#include "lib/math.h"
+#include "math.h"
 
 int main()
 {

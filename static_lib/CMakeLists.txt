@@ -1,8 +1,0 @@
-CMAKE_MINIMUM_REQUIRED(VERSION 3.0)  
-
-PROJECT(TestLIB)  #工程名
-
-include_directories(${PROJECT_SOURCE_DIR})
-
-ADD_SUBDIRECTORY(lib) #添加子目录
-ADD_SUBDIRECTORY(test) #添加子目录
